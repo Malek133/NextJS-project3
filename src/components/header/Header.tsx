@@ -40,11 +40,11 @@ const Header = () => {
           <Link href={'/product'}>product </Link>
           </li>
         <li>
-            <Link href={'/about'}>Aboute</Link>
+            <Link href={'/api/product'}>API</Link>
         </li>
         
         <li>
-            <Link href={'/admin'}>admine</Link>
+            <Link href={'/question'}>Question ?.</Link>
         </li>
 
 

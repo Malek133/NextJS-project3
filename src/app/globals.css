@@ -2,8 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+ *{
+  background-color: #f8f5f5;
+} 
+
 .fix-height {
-    min-height: calc(100vh - 180px);
+    min-height: calc(100vh - 100px);
   }
 
 
